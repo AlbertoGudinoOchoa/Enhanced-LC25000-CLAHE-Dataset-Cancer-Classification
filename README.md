@@ -6,6 +6,8 @@ This dataset is an enhanced version of the **Lung and Colon Cancer Histopatholog
 1. **CLAHE Image Processing:** Contrast Limited Adaptive Histogram Equalization (CLAHE) has been applied to all images to improve contrast and enhance visual features for better classification.
 2. **1000 New Images:** To improve dataset variability, 1000 new images have been added to the **Colon Adenocarcinoma, Lung Adenocarcinoma**, and **Lung Squamous Cell Carcinoma** classes. These additional images were sourced from the **National GDC Cancer Portal** and replace some of the original augmented images to create a more robust and generalized dataset.
 
+![Dataset Sample](./Dataset.png)
+
 ## Dataset Details:
 - **Colon Adenocarcinoma:** 5,000 images
 - **Colon Benign Tissue:** 5,000 images
